@@ -20,3 +20,6 @@ Permite:
  ## Tecnoloxías empregadas
 
 - Ubuntu Server 22.04 LTS ,  Samba 4 , VirtualBox , Windows 10/11 , DNS interno de Samba , Kerberos
+## Formato do proxecto
+
+Portada identificativa , Índice automático , Numeración de páxinas , capturas comentadas referencias en formato APA.
