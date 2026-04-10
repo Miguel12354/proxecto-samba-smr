@@ -24,6 +24,6 @@ Permite:
 
 Portada identificativa , Índice automático , Numeración de páxinas , capturas comentadas referencias en formato APA.
 ## Presentación do proxecto
-
+[Ver PDF](docs/2ª%20Entrega.pdf)
 
 ## Proba do concepto
