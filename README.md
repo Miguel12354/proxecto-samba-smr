@@ -24,7 +24,5 @@ Permite:
 
 Portada identificativa , Índice automático , Numeración de páxinas , capturas comentadas referencias en formato APA.
 ## Presentación do proxecto
-[Ver PDF](docs/2ª%20Entrega.pdf)
+[Ver PDF](docs/Memoria%20xustificativa%20proxecto%20final%20ciclo)
 
-## Proba do concepto
-[Ver PDF](docs/Prueba%20proyecto.pdf)
