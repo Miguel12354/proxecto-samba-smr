@@ -24,5 +24,5 @@ Permite:
 
 Portada identificativa , Índice automático , Numeración de páxinas , capturas comentadas referencias en formato APA.
 ## Documentación
-[Ver PDF](docs/Memoria%20proxecto%20final%)
+[Ver PDF](docs/Memoria%20proxecto%20final)
 
